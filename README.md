@@ -9,3 +9,6 @@ Training result with IoU on 224 size
 
 [UNET++ 512] Training result on 512 size 
 <img width="1143" height="442" alt="Unet_phat" src="https://github.com/user-attachments/assets/6d00d57f-0c25-446a-8359-3d966618fbf7" />
+
+[UNET++ 224] Training result on 224 size 
+<img width="694" height="271" alt="Unet++_224" src="https://github.com/user-attachments/assets/d897f431-ef68-4c13-ab07-6cdfabeed263" />
